@@ -1,0 +1,6 @@
+.Content {
+  display: flex;
+  flex: 0.9;
+  padding: 4pt;
+  flex-direction: column;
+}

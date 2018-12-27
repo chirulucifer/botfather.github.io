@@ -1,0 +1,16 @@
+.ContentBottomPanel {
+  text-align: justify;
+}
+
+.Showcase {
+  padding: 20px;
+}
+
+a:link {
+  color: #23b5d3;
+}
+
+.TechTag {
+  color: #f1807d;
+  font-size: 12px;
+}

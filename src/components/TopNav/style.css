@@ -1,0 +1,16 @@
+.TopNav {
+  background-color: #23b5d3;
+}
+
+.BrandingBox {
+  display: flex;
+  align-items: center;
+  flex: 0.7;
+}
+
+.MenuPanel {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 0.3;
+}

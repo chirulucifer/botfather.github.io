@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+.FootView {
+  background-color: #f1807d;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  flex: 0.1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

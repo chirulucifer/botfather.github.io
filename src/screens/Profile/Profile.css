@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800&display=swap');
+
+.topbar {
+  background-color: red;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo-initial-first {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.logo-initial-second {
+  font-weight: 800;
+}

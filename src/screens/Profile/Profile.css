@@ -1,15 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800&display=swap');
-
 .topbar {
-  background-color: red;
+  padding-top: 2.5%;
+}
+
+.skills-bar {
+  padding-top: 2.5%;
+}
+
+.skills-bar-centered {
+  padding-top: 2.5%;
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
-.logo-initial-first {
-  font-family: 'Montserrat', sans-serif;
-}
-
-.logo-initial-second {
-  font-weight: 800;
+.message-text {
+  margin-top: 5.5%;
+  font-size: 0.85em;
 }

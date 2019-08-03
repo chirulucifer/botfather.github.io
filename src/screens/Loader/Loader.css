@@ -69,7 +69,7 @@
   text-shadow: 1px 1px #2e96ff, 2px 2px #007fff, 3px 3px #0074e8, 4px 4px #0068d1, 5px 5px #005dba,
     6px 6px #0051a3, 7px 7px #00468c, 8px 8px #003a74, 9px 9px #002f5d, 10px 10px #002346,
     10px 10px 30px rgba(0, 0, 0, 0.7);
-  margin-top: -120px;
+  margin-top: -35px;
 }
 
 @keyframes hideAnimation {

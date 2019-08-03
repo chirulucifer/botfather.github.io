@@ -8,7 +8,7 @@
     "import/extensions": 0,
     "new-cap": 0,
     "no-shadow": 0,
-    "max-len": [2, 140],
+    "max-len": [2, 120],
 
     // Reassigning when reducing is nice.
     "no-param-reassign": 0,
@@ -21,7 +21,7 @@
 
     // Need to allow object for style props.
     "react/forbid-prop-types": [2, { "forbid": ["any", "array"] }],
-
+    "react/jsx-filename-extension": 0,
     "react/require-default-props": 0,
     "comma-dangle": [
       "error",
